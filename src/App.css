@@ -1,0 +1,31 @@
+.full-section{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+}
+
+.header{
+    text-align: left; 
+    display: flex;
+    align-items: center;     
+    padding: 41px 84px 91px 63px;
+}
+
+.card{
+    overflow: hidden;
+}
+
+.header h4{
+    text-align: left;
+    width: 100%;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0 0 0 0;
+}
+
+
+.footer{
+    height: 20px;
+    width: 100%;
+}
